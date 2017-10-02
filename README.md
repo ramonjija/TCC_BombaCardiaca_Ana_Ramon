@@ -45,7 +45,7 @@ O Projeto foi elaborado utilizando os seguintes componentes:
 * 1000ml de água ionizada como fluido
 
 ![Image of Frontal Painel](/Imagens/TCC_PAINEL_FRONTAL_IDLE.png)
-![Image of Final Architecture](/Imanges/TCC_ARQUITETURA_FINAL.png)
+![Image of Final Architecture](/Imanges/TCC_ARQUITETURA_FINAL.PNG)
 
 
 
