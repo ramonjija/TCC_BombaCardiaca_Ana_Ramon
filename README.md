@@ -44,7 +44,9 @@ O Projeto foi elaborado utilizando os seguintes componentes:
 * Phantom
 * 1000ml de água ionizada como fluido
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Frontal Painel](/Imagens/TCC_PAINEL_FRONTAL_IDLE.png)
+![Image of Final Architecture](/Imanges/TCC_ARQUITETURA_FINAL.png)
+
 
 
 
