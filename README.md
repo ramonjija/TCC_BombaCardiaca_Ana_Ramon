@@ -47,6 +47,8 @@ O Projeto foi elaborado utilizando os seguintes componentes:
 ![Image of Frontal Painel](/Imagens/TCC_PAINEL_FRONTAL_IDLE.png)
 ![Image of Final Architecture](/Imagens/TCC_ARQUITETURA_FINAL.PNG)
 
+Working like a freakin' :shipit::satellite:
+
 
 
 
